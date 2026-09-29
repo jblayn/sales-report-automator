@@ -1,0 +1,511 @@
+Order ID,Order Date,Region,Sales Rep,Product,Quantity,Unit Price
+ORD-00001,02/27/2026,south,Alice Chen,Wireless Mouse,12,24.99
+ORD-00002,2026-04-30,South,Sara Kim,Webcam HD,10,N/A
+ORD-00003,2026-08-05,South,  PRIYA PATEL ,Mechanical Keyboard,5,$89.99
+ORD-00004,08/24/2026,North,Sara Kim,Webcam HD,2,54.50
+ORD-00005,2026-05-29,west,priya patel,Wireless Mouse,4,$24.99
+ORD-00006,2026-03-29,South,Priya Patel,Webcam HD,12,54.50
+ORD-00007,04/28/2026,  EAST ,Sara Kim,Wireless Mouse,6,$24.99
+ORD-00008,16-May-2026,East,Tom Rivera,USB-C Hub,4,39.99
+ORD-00009,25-Jan-2026,South,Tom Rivera,Wireless Mouse,3,$24.99
+ORD-00010,2026-01-06,East,  PRIYA PATEL ,Laptop Stand,,$32.00
+ORD-00011,2026-09-14,East,Sara Kim,usb-c hub,9,39.99
+ORD-00012,01/01/2026,  NORTH ,Priya Patel,Webcam HD,6,$54.50
+ORD-00013,02/10/2026,North,Sara Kim,  WIRELESS MOUSE ,12,$24.99
+ORD-00014,05-Aug-2026,South,Tom Rivera,USB-C Hub,9,$39.99
+ORD-00015,02-Feb-2026,South,  ALICE CHEN ,Mechanical Keyboard,1,89.99
+ORD-00016,21-Sep-2026,west,Marcus Lee,USB-C Hub,5,$39.99
+ORD-00017,02/18/2026,East,Tom Rivera,  WIRELESS MOUSE ,11,24.99
+ORD-00018,2026-02-25,  WEST ,marcus lee,usb-c hub,4,39.99
+ORD-00019,2026-01-26,North,marcus lee,Laptop Stand,9,32.00
+ORD-00020,01/02/2026,East,Sara Kim,27in Monitor,5,229.00
+ORD-00021,2026-02-01,North,Sara Kim,Laptop Stand,6,32.00
+ORD-00022,02/04/2026,North,sara kim,Laptop Stand,4,32.00
+ORD-00023,14-May-2026,east,  TOM RIVERA ,USB-C Hub,11,$39.99
+ORD-00024,2026-08-23,North,sara kim,Webcam HD,10,54.50
+ORD-00025,04-Jun-2026,North,sara kim,Webcam HD,11,54.50
+ORD-00026,21-Mar-2026,South,Marcus Lee,Mechanical Keyboard,5,$89.99
+ORD-00027,2026-08-05,East,priya patel,Mechanical Keyboard,1,$89.99
+ORD-00028,03/18/2026,South,Alice Chen,Webcam HD,1,54.50
+ORD-00029,02/22/2026,South,Marcus Lee,Mechanical Keyboard,9,89.99
+ORD-00030,20-Jun-2026,south,Alice Chen,  27IN MONITOR ,11,$229.00
+ORD-00031,2026-06-06,South,Priya Patel,USB-C Hub,4,$39.99
+ORD-00032,06/19/2026,South,  PRIYA PATEL ,Wireless Mouse,2,$24.99
+ORD-00033,19-Sep-2026,south,  TOM RIVERA ,Wireless Mouse,7,24.99
+ORD-00034,19-Jun-2026,North,Priya Patel,Webcam HD,6,$54.50
+ORD-00035,04-Aug-2026,South,Priya Patel,Laptop Stand,7,$32.00
+ORD-00036,06/14/2026,South,Marcus Lee,27in monitor,8,$229.00
+ORD-00037,2026-06-08,  NORTH ,Tom Rivera,USB-C Hub,4,$39.99
+ORD-00038,2026-07-16,South,Alice Chen,27in Monitor,7,229.00
+ORD-00039,23-Sep-2026,South,Alice Chen,27in Monitor,1,$229.00
+ORD-00040,09/16/2026,South,Tom Rivera,27in Monitor,9,$229.00
+ORD-00041,21-May-2026,east,Priya Patel,27in Monitor,2,229.00
+ORD-00042,04/20/2026,East,  TOM RIVERA ,Wireless Mouse,7,$24.99
+ORD-00043,07/14/2026,East,Tom Rivera,27in Monitor,1,229.00
+ORD-00044,19-Jul-2026,West,Tom Rivera,Mechanical Keyboard,11,89.99
+ORD-00045,2026-02-12,west,Priya Patel,laptop stand,7,$32.00
+ORD-00046,08/04/2026,North,Alice Chen,Mechanical Keyboard,2,89.99
+ORD-00047,07-May-2026,south,Tom Rivera,USB-C Hub,1,39.99
+ORD-00048,2026-02-28,North,Sara Kim,USB-C Hub,5,$39.99
+ORD-00049,05/05/2026,North,Sara Kim,Wireless Mouse,12,$24.99
+ORD-00050,2026-01-07,West,Tom Rivera,27in Monitor,8,$229.00
+ORD-00051,27-Aug-2026,East,Marcus Lee,  27IN MONITOR ,12,$229.00
+ORD-00052,07/14/2026,east,Marcus Lee,mechanical keyboard,1,$89.99
+ORD-00053,2026-01-06,South,Tom Rivera,webcam hd,4,$54.50
+ORD-00054,02/17/2026,South,Sara Kim,Mechanical Keyboard,4,$89.99
+ORD-00055,08/21/2026,  SOUTH ,Marcus Lee,Mechanical Keyboard,5,89.99
+ORD-00056,2026-09-26,south,priya patel,  WEBCAM HD ,5,54.50
+ORD-00057,2026-03-06,North,Tom Rivera,Laptop Stand,8,32.00
+ORD-00058,2026-02-03,north,Sara Kim,  27IN MONITOR ,8,229.00
+ORD-00059,04/26/2026,west,Sara Kim,Webcam HD,7,54.50
+ORD-00060,04/17/2026,north,Marcus Lee,laptop stand,4,$32.00
+ORD-00061,04/29/2026,  WEST ,Marcus Lee,Mechanical Keyboard,12,89.99
+ORD-00062,2026-05-17,South,Sara Kim,USB-C Hub,2,$39.99
+ORD-00063,26-Jul-2026,West,  SARA KIM ,Mechanical Keyboard,9,$89.99
+ORD-00064,11-Jan-2026,North,Marcus Lee,Laptop Stand,5,$32.00
+ORD-00065,09/09/2026,West,Alice Chen,Wireless Mouse,8,$24.99
+ORD-00066,01/19/2026,East,Tom Rivera,27in Monitor,2,229.00
+ORD-00067,07-Apr-2026,West,alice chen,Webcam HD,6,$54.50
+ORD-00068,05/03/2026,North,alice chen,Laptop Stand,3,32.00
+ORD-00069,13-Sep-2026,East,Tom Rivera,laptop stand,5,32.00
+ORD-00070,03/11/2026,East,sara kim,  WIRELESS MOUSE ,5,$24.99
+ORD-00071,03/18/2026,East,Sara Kim,27in Monitor,9,229.00
+ORD-00072,30-Jul-2026,West,Tom Rivera,Wireless Mouse,6,24.99
+ORD-00073,2026-06-19,  WEST ,Marcus Lee,Wireless Mouse,8,24.99
+ORD-00074,07/23/2026,West,Tom Rivera,  LAPTOP STAND ,2,32.00
+ORD-00075,04/27/2026,North,Alice Chen,Laptop Stand,2,32.00
+ORD-00076,2026-07-11,West,marcus lee,  27IN MONITOR ,3,$229.00
+ORD-00077,15-Mar-2026,East,Alice Chen,USB-C Hub,8,$39.99
+ORD-00078,26-Jun-2026,West,Tom Rivera,webcam hd,5,$54.50
+ORD-00079,03-Jul-2026,  EAST ,tom rivera,Webcam HD,5,54.50
+ORD-00080,05/27/2026,South,sara kim,USB-C Hub,10,39.99
+ORD-00081,08-Jun-2026,East,Alice Chen,27in Monitor,1,$229.00
+ORD-00082,07/07/2026,south,Tom Rivera,webcam hd,9,$54.50
+ORD-00083,26-Apr-2026,West,Sara Kim,Laptop Stand,12,32.00
+ORD-00084,15-May-2026,  EAST ,Marcus Lee,Webcam HD,7,$54.50
+ORD-00085,26-Aug-2026,  WEST ,Alice Chen,Laptop Stand,5,$32.00
+ORD-00086,18-Jul-2026,West,Marcus Lee,27in Monitor,6,$229.00
+ORD-00087,07/09/2026,South,Alice Chen,USB-C Hub,8,$39.99
+ORD-00088,2026-08-21,  NORTH ,priya patel,  WIRELESS MOUSE ,11,24.99
+ORD-00089,2026-04-21,north,Marcus Lee,USB-C Hub,6,39.99
+ORD-00090,07/03/2026,north,  ALICE CHEN ,USB-C Hub,10,39.99
+ORD-00091,09/20/2026,South,Alice Chen,Webcam HD,2,$54.50
+ORD-00092,03-Sep-2026,North,  TOM RIVERA ,  27IN MONITOR ,7,229.00
+ORD-00093,16-Jun-2026,East,Sara Kim,27in Monitor,10,229.00
+ORD-00094,2026-04-21,West,Tom Rivera,27in Monitor,8,$229.00
+ORD-00095,2026-03-20,North,Alice Chen,Laptop Stand,8,$32.00
+ORD-00096,06/18/2026,East,Tom Rivera,Laptop Stand,2,$32.00
+ORD-00097,04/19/2026,South,Priya Patel,USB-C Hub,11,$39.99
+ORD-00098,14-Jan-2026,  EAST ,Priya Patel,Webcam HD,11,$54.50
+ORD-00099,25-Jul-2026,  NORTH ,sara kim,Wireless Mouse,3,$24.99
+ORD-00100,2026-02-13,North,Priya Patel,Wireless Mouse,3,$24.99
+ORD-00101,06/26/2026,West,  PRIYA PATEL ,27in Monitor,,229.00
+ORD-00102,03/12/2026,  NORTH ,tom rivera,Mechanical Keyboard,5,89.99
+ORD-00103,2026-02-06,  WEST ,Alice Chen,27in Monitor,12,$229.00
+ORD-00104,11-Jan-2026,West,  PRIYA PATEL ,Mechanical Keyboard,3,89.99
+ORD-00105,2026-06-08,East,Alice Chen,  LAPTOP STAND ,6,32.00
+ORD-00106,2026-03-17,east,sara kim,USB-C Hub,2,39.99
+ORD-00107,18-Aug-2026,East,priya patel,  LAPTOP STAND ,10,$32.00
+ORD-00108,06/30/2026,West,Alice Chen,webcam hd,2,54.50
+ORD-00109,22-Jan-2026,South,Tom Rivera,27in Monitor,10,$229.00
+ORD-00110,2026-02-13,north,Tom Rivera,Webcam HD,11,54.50
+ORD-00111,2026-06-23,  EAST ,Alice Chen,Laptop Stand,10,$32.00
+ORD-00112,18-Mar-2026,South,Priya Patel,Mechanical Keyboard,2,$89.99
+ORD-00113,2026-07-12,North,Tom Rivera,  LAPTOP STAND ,6,$32.00
+ORD-00114,2026-09-06,  SOUTH ,Alice Chen,USB-C Hub,4,39.99
+ORD-00115,2026-07-12,South,Alice Chen,USB-C Hub,3,39.99
+ORD-00116,2026-08-18,East,Tom Rivera,usb-c hub,9,$39.99
+ORD-00117,2026-09-28,South,Alice Chen,27in Monitor,3,229.00
+ORD-00118,02/12/2026,South,Alice Chen,usb-c hub,5,$39.99
+ORD-00119,2026-07-22,West,priya patel,Webcam HD,6,54.50
+ORD-00120,03/12/2026,South,Tom Rivera,  WIRELESS MOUSE ,,24.99
+ORD-00121,09/28/2026,South,alice chen,27in Monitor,2,$229.00
+ORD-00122,09-Jan-2026,South,Priya Patel,Laptop Stand,9,32.00
+ORD-00123,26-Sep-2026,North,  TOM RIVERA ,Mechanical Keyboard,2,N/A
+ORD-00124,26-Jun-2026,North,  PRIYA PATEL ,USB-C Hub,12,$39.99
+ORD-00125,26-Aug-2026,South,Alice Chen,Laptop Stand,8,32.00
+ORD-00126,22-Jan-2026,West,Sara Kim,  MECHANICAL KEYBOARD ,5,89.99
+ORD-00127,06/19/2026,West,Tom Rivera,Mechanical Keyboard,2,89.99
+ORD-00128,23-Sep-2026,  WEST ,Sara Kim,mechanical keyboard,2,$89.99
+ORD-00129,06-Jun-2026,west,Tom Rivera,  27IN MONITOR ,10,$229.00
+ORD-00130,30-Jan-2026,West,Marcus Lee,  WIRELESS MOUSE ,11,$24.99
+ORD-00131,07-Jul-2026,North,Tom Rivera,Mechanical Keyboard,7,89.99
+ORD-00132,2026-05-23,South,Tom Rivera,  USB-C HUB ,2,$39.99
+ORD-00133,2026-09-09,North,Tom Rivera,USB-C Hub,2,$39.99
+ORD-00134,29-May-2026,South,sara kim,Mechanical Keyboard,3,89.99
+ORD-00135,2026-07-08,  NORTH ,Tom Rivera,27in Monitor,9,$229.00
+ORD-00136,06/12/2026,West,  PRIYA PATEL ,Laptop Stand,2,32.00
+ORD-00137,2026-01-29,east,Priya Patel,wireless mouse,9,$24.99
+ORD-00138,05/21/2026,North,Marcus Lee,USB-C Hub,11,39.99
+ORD-00139,2026-01-22,East,Sara Kim,Wireless Mouse,2,$24.99
+ORD-00140,04-Jun-2026,west,Alice Chen,27in monitor,4,$229.00
+ORD-00141,10-Jun-2026,East,Marcus Lee,Laptop Stand,6,32.00
+ORD-00142,2026-05-07,East,Sara Kim,USB-C Hub,2,39.99
+ORD-00143,08-Apr-2026,West,Priya Patel,  USB-C HUB ,8,$39.99
+ORD-00144,06/30/2026,West,tom rivera,  WIRELESS MOUSE ,1,24.99
+ORD-00145,07/26/2026,North,Marcus Lee,mechanical keyboard,1,$89.99
+ORD-00146,03/02/2026,East,Priya Patel,USB-C Hub,2,39.99
+ORD-00147,24-Jan-2026,East,Sara Kim,Wireless Mouse,3,24.99
+ORD-00148,03-Jun-2026,West,Priya Patel,  WEBCAM HD ,6,$54.50
+ORD-00149,01/14/2026,South,Sara Kim,Webcam HD,8,$54.50
+ORD-00150,02/26/2026,East,Tom Rivera,USB-C Hub,1,$39.99
+ORD-00151,12-Mar-2026,East,Tom Rivera,Webcam HD,4,54.50
+ORD-00152,2026-05-16,south,priya patel,Webcam HD,8,$54.50
+ORD-00153,09/08/2026,east,Sara Kim,Mechanical Keyboard,8,$89.99
+ORD-00154,29-May-2026,North,Tom Rivera,Wireless Mouse,5,24.99
+ORD-00155,20-May-2026,south,sara kim,usb-c hub,2,39.99
+ORD-00156,2026-03-12,West,Tom Rivera,wireless mouse,9,$24.99
+ORD-00157,2026-02-15,North,Marcus Lee,Laptop Stand,10,32.00
+ORD-00158,05/29/2026,North,priya patel,Wireless Mouse,1,$24.99
+ORD-00159,05/20/2026,South,Priya Patel,  USB-C HUB ,2,$39.99
+ORD-00160,03/31/2026,West,Alice Chen,  WEBCAM HD ,11,54.50
+ORD-00160,03/31/2026,West,Alice Chen,  WEBCAM HD ,11,54.50
+ORD-00161,07/16/2026,East,  SARA KIM ,USB-C Hub,8,39.99
+ORD-00162,27-Jul-2026,East,Priya Patel,laptop stand,9,32.00
+ORD-00163,11-Jul-2026,West,Marcus Lee,27in Monitor,12,229.00
+ORD-00164,27-Feb-2026,South,marcus lee,Wireless Mouse,9,$24.99
+ORD-00165,2026-02-16,  WEST ,Tom Rivera,  WEBCAM HD ,8,$54.50
+ORD-00165,2026-02-16,  WEST ,Tom Rivera,  WEBCAM HD ,8,$54.50
+ORD-00166,2026-05-11,  NORTH ,Priya Patel,Wireless Mouse,12,24.99
+ORD-00167,2026-01-17,South,Tom Rivera,Mechanical Keyboard,7,$89.99
+ORD-00168,2026-03-10,South,Tom Rivera,Laptop Stand,6,32.00
+ORD-00169,26-Aug-2026,West,marcus lee,Laptop Stand,12,$32.00
+ORD-00170,17-Jan-2026,north,  ALICE CHEN ,  LAPTOP STAND ,7,32.00
+ORD-00171,22-Apr-2026,east,Sara Kim,Wireless Mouse,3,$24.99
+ORD-00172,09/24/2026,  EAST ,Sara Kim,USB-C Hub,7,$39.99
+ORD-00173,15-Jul-2026,West,Priya Patel,Webcam HD,6,$54.50
+ORD-00174,15-Mar-2026,West,Sara Kim,27in Monitor,1,$229.00
+ORD-00175,09-Jul-2026,  SOUTH ,Tom Rivera,Wireless Mouse,9,24.99
+ORD-00176,04/22/2026,East,alice chen,27in monitor,4,229.00
+ORD-00177,15-Apr-2026,East,Tom Rivera,27in Monitor,4,$229.00
+ORD-00178,02/20/2026,South,  TOM RIVERA ,Laptop Stand,,32.00
+ORD-00179,2026-08-02,east,Sara Kim,Mechanical Keyboard,3,$89.99
+ORD-00180,09-Sep-2026,east,Sara Kim,27in Monitor,3,229.00
+ORD-00181,2026-01-25,  SOUTH ,  MARCUS LEE ,Wireless Mouse,7,$24.99
+ORD-00182,2026-09-05,North,  TOM RIVERA ,Laptop Stand,8,$32.00
+ORD-00183,2026-08-09,south,Sara Kim,USB-C Hub,2,$39.99
+ORD-00184,24-Aug-2026,south,Alice Chen,Webcam HD,4,54.50
+ORD-00185,29-Jan-2026,  SOUTH ,Tom Rivera,Laptop Stand,1,32.00
+ORD-00186,2026-09-01,East,Sara Kim,mechanical keyboard,,$89.99
+ORD-00187,2026-07-23,South,Tom Rivera,Wireless Mouse,5,$24.99
+ORD-00188,02/10/2026,  NORTH ,Marcus Lee,Webcam HD,12,$54.50
+ORD-00189,08/19/2026,West,Sara Kim,  27IN MONITOR ,4,$229.00
+ORD-00190,20-Mar-2026,South,Priya Patel,  27IN MONITOR ,12,$229.00
+ORD-00191,02/14/2026,  WEST ,Alice Chen,  USB-C HUB ,7,N/A
+ORD-00192,2026-02-13,South,  MARCUS LEE ,Laptop Stand,9,$32.00
+ORD-00193,06/03/2026,East,Tom Rivera,27in monitor,2,N/A
+ORD-00194,07/14/2026,West,  SARA KIM ,Mechanical Keyboard,8,89.99
+ORD-00195,13-Jun-2026,West,Marcus Lee,mechanical keyboard,12,$89.99
+ORD-00196,2026-04-03,West,Marcus Lee,laptop stand,9,32.00
+ORD-00197,09/13/2026,south,Marcus Lee,USB-C Hub,11,39.99
+ORD-00198,17-Sep-2026,North,Priya Patel,Laptop Stand,7,32.00
+ORD-00199,2026-03-27,West,Priya Patel,Laptop Stand,10,32.00
+ORD-00200,04/24/2026,West,Sara Kim,27in monitor,6,229.00
+ORD-00201,2026-02-13,East,Tom Rivera,Wireless Mouse,12,$24.99
+ORD-00202,2026-06-13,  NORTH ,Priya Patel,Wireless Mouse,5,24.99
+ORD-00203,03/23/2026,west,Tom Rivera,mechanical keyboard,9,$89.99
+ORD-00204,08/19/2026,North,marcus lee,Webcam HD,7,54.50
+ORD-00205,07/07/2026,north,Tom Rivera,Mechanical Keyboard,4,$89.99
+ORD-00206,23-Aug-2026,East,  SARA KIM ,  WEBCAM HD ,3,54.50
+ORD-00207,03/14/2026,South,tom rivera,Webcam HD,7,54.50
+ORD-00208,2026-06-11,East,  TOM RIVERA ,27in Monitor,10,$229.00
+ORD-00209,2026-08-16,North,marcus lee,27in monitor,3,$229.00
+ORD-00210,2026-09-11,north,Sara Kim,Webcam HD,9,54.50
+ORD-00211,06-Aug-2026,south,Alice Chen,Wireless Mouse,12,24.99
+ORD-00212,02-May-2026,East,Sara Kim,usb-c hub,12,39.99
+ORD-00213,29-Jun-2026,South,priya patel,webcam hd,5,54.50
+ORD-00214,2026-01-31,south,Priya Patel,Mechanical Keyboard,11,$89.99
+ORD-00215,2026-08-01,North,Priya Patel,27in Monitor,8,$229.00
+ORD-00215,2026-08-01,North,Priya Patel,27in Monitor,8,$229.00
+ORD-00216,17-Feb-2026,East,Sara Kim,Laptop Stand,8,32.00
+ORD-00217,03/08/2026,  NORTH ,  TOM RIVERA ,Webcam HD,8,N/A
+ORD-00218,14-Apr-2026,east,  PRIYA PATEL ,Laptop Stand,3,32.00
+ORD-00219,22-Jul-2026,South,Alice Chen,  LAPTOP STAND ,5,$32.00
+ORD-00220,16-Aug-2026,East,Tom Rivera,Wireless Mouse,1,24.99
+ORD-00221,2026-06-10,West,Marcus Lee,Mechanical Keyboard,5,N/A
+ORD-00222,2026-08-14,South,Sara Kim,Mechanical Keyboard,12,89.99
+ORD-00223,07/16/2026,south,alice chen,Mechanical Keyboard,7,$89.99
+ORD-00224,04-Jun-2026,South,Priya Patel,USB-C Hub,9,39.99
+ORD-00225,02/06/2026,  EAST ,Sara Kim,Webcam HD,1,54.50
+ORD-00226,2026-01-09,east,Alice Chen,Webcam HD,2,$54.50
+ORD-00227,25-Jul-2026,south,  PRIYA PATEL ,Wireless Mouse,11,24.99
+ORD-00228,02/03/2026,  SOUTH ,Alice Chen,  MECHANICAL KEYBOARD ,12,89.99
+ORD-00229,2026-03-03,north,Priya Patel,Wireless Mouse,12,$24.99
+ORD-00230,2026-05-18,East,Priya Patel,laptop stand,2,32.00
+ORD-00231,03/27/2026,North,alice chen,Mechanical Keyboard,3,N/A
+ORD-00232,2026-07-06,North,tom rivera,27in monitor,3,$229.00
+ORD-00233,2026-09-15,South,Alice Chen,  LAPTOP STAND ,1,$32.00
+ORD-00234,2026-02-14,east,Sara Kim,Webcam HD,8,54.50
+ORD-00235,2026-04-11,  SOUTH ,  TOM RIVERA ,Laptop Stand,9,N/A
+ORD-00236,07-Jun-2026,South,Alice Chen,  WIRELESS MOUSE ,4,$24.99
+ORD-00237,09/24/2026,West,Alice Chen,27in Monitor,12,$229.00
+ORD-00238,03/08/2026,East,Tom Rivera,USB-C Hub,5,$39.99
+ORD-00239,2026-03-11,north,Tom Rivera,  WEBCAM HD ,2,$54.50
+ORD-00240,2026-05-16,East,  SARA KIM ,Wireless Mouse,2,$24.99
+ORD-00241,22-Jul-2026,east,  MARCUS LEE ,Webcam HD,1,$54.50
+ORD-00242,2026-02-22,North,  MARCUS LEE ,USB-C Hub,2,$39.99
+ORD-00243,2026-05-13,South,Tom Rivera,  WIRELESS MOUSE ,1,$24.99
+ORD-00244,08/10/2026,North,tom rivera,laptop stand,7,32.00
+ORD-00245,05/06/2026,West,  TOM RIVERA ,laptop stand,5,32.00
+ORD-00246,2026-05-08,West,Priya Patel,Laptop Stand,9,$32.00
+ORD-00247,03-Apr-2026,  SOUTH ,  PRIYA PATEL ,Wireless Mouse,6,$24.99
+ORD-00248,2026-02-21,East,Alice Chen,USB-C Hub,11,$39.99
+ORD-00249,04/01/2026,East,Alice Chen,USB-C Hub,10,39.99
+ORD-00250,2026-09-10,  WEST ,alice chen,webcam hd,,$54.50
+ORD-00251,2026-03-08,  EAST ,Marcus Lee,Mechanical Keyboard,12,89.99
+ORD-00252,07/11/2026,North,  PRIYA PATEL ,laptop stand,11,$32.00
+ORD-00253,31-Mar-2026,east,Sara Kim,Laptop Stand,9,$32.00
+ORD-00254,2026-07-20,East,sara kim,Webcam HD,1,$54.50
+ORD-00255,2026-06-13,East,priya patel,USB-C Hub,11,$39.99
+ORD-00255,2026-06-13,East,priya patel,USB-C Hub,11,$39.99
+ORD-00256,07/17/2026,South,Tom Rivera,27in Monitor,12,$229.00
+ORD-00257,2026-04-26,north,priya patel,  USB-C HUB ,8,$39.99
+ORD-00258,17-Feb-2026,West,Tom Rivera,mechanical keyboard,10,$89.99
+ORD-00259,08-Apr-2026,East,priya patel,  27IN MONITOR ,12,$229.00
+ORD-00260,31-May-2026,west,alice chen,Laptop Stand,11,32.00
+ORD-00261,08/30/2026,North,tom rivera,27in Monitor,11,$229.00
+ORD-00262,15-May-2026,north,  ALICE CHEN ,USB-C Hub,5,$39.99
+ORD-00263,18-Jul-2026,West,Marcus Lee,  WEBCAM HD ,7,54.50
+ORD-00264,2026-03-17,South,  MARCUS LEE ,Wireless Mouse,8,$24.99
+ORD-00265,2026-05-13,North,Tom Rivera,Mechanical Keyboard,12,N/A
+ORD-00266,09/25/2026,  SOUTH ,Sara Kim,27in Monitor,2,229.00
+ORD-00267,05/27/2026,East,Tom Rivera,Webcam HD,6,54.50
+ORD-00268,07/25/2026,  SOUTH ,Tom Rivera,Wireless Mouse,7,24.99
+ORD-00269,2026-09-09,  SOUTH ,Tom Rivera,Laptop Stand,11,$32.00
+ORD-00270,28-Jul-2026,East,Sara Kim,  LAPTOP STAND ,8,$32.00
+ORD-00271,2026-01-15,north,  TOM RIVERA ,USB-C Hub,4,39.99
+ORD-00272,2026-03-05,East,tom rivera,Laptop Stand,1,$32.00
+ORD-00273,02/16/2026,north,Sara Kim,mechanical keyboard,1,89.99
+ORD-00274,29-Jul-2026,North,Marcus Lee,Webcam HD,1,54.50
+ORD-00275,05/21/2026,west,Tom Rivera,27in Monitor,7,N/A
+ORD-00276,11-Jul-2026,east,Alice Chen,Webcam HD,11,$54.50
+ORD-00277,02-Jun-2026,South,Sara Kim,USB-C Hub,3,39.99
+ORD-00278,05/13/2026,North,Sara Kim,27in Monitor,7,229.00
+ORD-00279,2026-07-03,south,  TOM RIVERA ,webcam hd,5,54.50
+ORD-00280,24-Apr-2026,East,Priya Patel,Mechanical Keyboard,4,$89.99
+ORD-00281,06-Feb-2026,North,Tom Rivera,27in Monitor,4,229.00
+ORD-00282,23-Aug-2026,South,Tom Rivera,USB-C Hub,6,N/A
+ORD-00283,03/28/2026,  NORTH ,Tom Rivera,Webcam HD,3,$54.50
+ORD-00284,11-Jul-2026,  SOUTH ,Alice Chen,wireless mouse,6,$24.99
+ORD-00285,2026-06-06,East,Tom Rivera,USB-C Hub,2,$39.99
+ORD-00286,2026-09-08,  WEST ,Marcus Lee,  MECHANICAL KEYBOARD ,4,89.99
+ORD-00287,01/20/2026,North,Alice Chen,27in Monitor,11,229.00
+ORD-00288,03/05/2026,south,Alice Chen,Webcam HD,5,$54.50
+ORD-00289,23-Feb-2026,north,Alice Chen,Webcam HD,12,$54.50
+ORD-00290,2026-07-29,West,Tom Rivera,  MECHANICAL KEYBOARD ,3,89.99
+ORD-00291,2026-03-18,North,Marcus Lee,Wireless Mouse,9,$24.99
+ORD-00292,21-Jan-2026,East,  ALICE CHEN ,Mechanical Keyboard,,89.99
+ORD-00293,18-Jun-2026,East,Alice Chen,Mechanical Keyboard,8,89.99
+ORD-00294,07/17/2026,  SOUTH ,Alice Chen,Laptop Stand,8,32.00
+ORD-00295,08/13/2026,East,Marcus Lee,USB-C Hub,10,$39.99
+ORD-00296,07-Jan-2026,South,Priya Patel,Laptop Stand,11,32.00
+ORD-00297,17-Jul-2026,  NORTH ,Marcus Lee,USB-C Hub,9,$39.99
+ORD-00298,2026-05-04,South,Tom Rivera,mechanical keyboard,5,$89.99
+ORD-00299,2026-09-13,West,  ALICE CHEN ,27in Monitor,6,229.00
+ORD-00300,2026-06-05,West,Priya Patel,Webcam HD,9,$54.50
+ORD-00301,2026-07-06,North,  MARCUS LEE ,Laptop Stand,8,$32.00
+ORD-00302,26-Mar-2026,  WEST ,sara kim,  27IN MONITOR ,3,$229.00
+ORD-00303,2026-06-23,North,Tom Rivera,Wireless Mouse,7,N/A
+ORD-00304,10-Aug-2026,South,Marcus Lee,  WEBCAM HD ,8,$54.50
+ORD-00305,16-Jul-2026,south,Priya Patel,27in Monitor,10,229.00
+ORD-00306,20-Sep-2026,East,Sara Kim,mechanical keyboard,12,$89.99
+ORD-00307,02-Apr-2026,East,Priya Patel,Webcam HD,9,$54.50
+ORD-00308,2026-08-05,North,Alice Chen,wireless mouse,9,24.99
+ORD-00309,2026-02-01,North,  TOM RIVERA ,Laptop Stand,5,32.00
+ORD-00310,2026-05-28,West,Priya Patel,  LAPTOP STAND ,11,$32.00
+ORD-00311,15-Aug-2026,East,Sara Kim,usb-c hub,11,39.99
+ORD-00312,06-Apr-2026,North,tom rivera,usb-c hub,12,39.99
+ORD-00313,03/21/2026,North,Sara Kim,Wireless Mouse,3,$24.99
+ORD-00314,05-Apr-2026,South,Sara Kim,Webcam HD,2,54.50
+ORD-00315,29-Sep-2026,  NORTH ,Priya Patel,27in Monitor,9,229.00
+ORD-00316,28-Feb-2026,  EAST ,Sara Kim,27in Monitor,5,$229.00
+ORD-00317,2026-06-14,South,Sara Kim,Webcam HD,2,54.50
+ORD-00318,06-Aug-2026,West,Alice Chen,wireless mouse,4,$24.99
+ORD-00319,2026-04-02,South,Tom Rivera,Mechanical Keyboard,9,$89.99
+ORD-00320,04-Jan-2026,North,  SARA KIM ,Laptop Stand,12,$32.00
+ORD-00321,06/04/2026,West,Alice Chen,Webcam HD,2,54.50
+ORD-00322,06/01/2026,East,Alice Chen,Laptop Stand,3,32.00
+ORD-00323,13-Feb-2026,east,  SARA KIM ,mechanical keyboard,4,$89.99
+ORD-00324,28-Jan-2026,north,alice chen,webcam hd,8,$54.50
+ORD-00325,01-May-2026,North,Priya Patel,Wireless Mouse,5,$24.99
+ORD-00326,2026-06-11,east,Marcus Lee,27in Monitor,3,$229.00
+ORD-00327,09/03/2026,East,alice chen,27in Monitor,8,$229.00
+ORD-00328,2026-05-15,North,Sara Kim,Laptop Stand,11,$32.00
+ORD-00329,05/14/2026,South,Marcus Lee,Webcam HD,9,$54.50
+ORD-00330,06-Jul-2026,South,Sara Kim,Webcam HD,1,54.50
+ORD-00331,03/16/2026,  EAST ,tom rivera,laptop stand,12,32.00
+ORD-00332,07/04/2026,  NORTH ,  PRIYA PATEL ,27in Monitor,8,$229.00
+ORD-00333,03/31/2026,East,Alice Chen,27in Monitor,11,229.00
+ORD-00334,2026-09-07,South,  MARCUS LEE ,27in Monitor,10,229.00
+ORD-00335,03/02/2026,East,Tom Rivera,Laptop Stand,4,32.00
+ORD-00336,2026-03-07,South,Alice Chen,  WEBCAM HD ,10,54.50
+ORD-00337,10-Jan-2026,East,Marcus Lee,Laptop Stand,12,$32.00
+ORD-00338,04-Apr-2026,east,Priya Patel,Webcam HD,11,54.50
+ORD-00339,14-Apr-2026,West,  SARA KIM ,Webcam HD,9,54.50
+ORD-00340,2026-02-17,North,Tom Rivera,27in Monitor,11,229.00
+ORD-00341,04-Sep-2026,North,Priya Patel,27in monitor,6,229.00
+ORD-00342,07-Apr-2026,North,Alice Chen,Wireless Mouse,12,24.99
+ORD-00343,21-Mar-2026,east,Sara Kim,27in Monitor,11,$229.00
+ORD-00344,05-Sep-2026,west,Priya Patel,USB-C Hub,6,$39.99
+ORD-00345,2026-04-28,north,Tom Rivera,27in Monitor,12,229.00
+ORD-00345,2026-04-28,north,Tom Rivera,27in Monitor,12,229.00
+ORD-00346,16-Feb-2026,  WEST ,priya patel,  USB-C HUB ,8,39.99
+ORD-00347,24-Sep-2026,North,Marcus Lee,Mechanical Keyboard,12,89.99
+ORD-00348,10-Apr-2026,South,Alice Chen,Wireless Mouse,10,24.99
+ORD-00349,2026-07-22,North,Alice Chen,27in Monitor,10,$229.00
+ORD-00350,10-Apr-2026,north,Tom Rivera,27in Monitor,7,$229.00
+ORD-00351,05/12/2026,West,Sara Kim,webcam hd,10,$54.50
+ORD-00352,01/15/2026,North,Marcus Lee,27in monitor,2,$229.00
+ORD-00353,2026-05-15,West,  PRIYA PATEL ,USB-C Hub,5,$39.99
+ORD-00354,2026-04-04,West,Marcus Lee,Laptop Stand,11,32.00
+ORD-00355,2026-07-02,North,Tom Rivera,USB-C Hub,2,39.99
+ORD-00356,21-May-2026,East,  SARA KIM ,27in Monitor,3,$229.00
+ORD-00357,07/21/2026,North,Tom Rivera,  LAPTOP STAND ,3,32.00
+ORD-00358,05/13/2026,south,Sara Kim,usb-c hub,9,$39.99
+ORD-00359,2026-07-25,South,Marcus Lee,Mechanical Keyboard,8,89.99
+ORD-00360,2026-03-18,West,Sara Kim,27in Monitor,1,$229.00
+ORD-00361,2026-07-23,north,Priya Patel,Wireless Mouse,12,$24.99
+ORD-00362,05/12/2026,North,sara kim,Mechanical Keyboard,1,89.99
+ORD-00363,09/19/2026,North,Priya Patel,27in Monitor,12,229.00
+ORD-00364,2026-07-27,east,Priya Patel,Wireless Mouse,2,$24.99
+ORD-00365,05-Jul-2026,West,Marcus Lee,  LAPTOP STAND ,10,32.00
+ORD-00366,02/10/2026,  NORTH ,Tom Rivera,  USB-C HUB ,3,$39.99
+ORD-00367,03/21/2026,east,Priya Patel,  WIRELESS MOUSE ,,24.99
+ORD-00368,16-Jun-2026,East,Marcus Lee,27in Monitor,8,229.00
+ORD-00369,11-Aug-2026,East,Tom Rivera,Webcam HD,11,$54.50
+ORD-00370,2026-01-06,east,  SARA KIM ,Wireless Mouse,9,$24.99
+ORD-00371,04/29/2026,South,Sara Kim,wireless mouse,9,$24.99
+ORD-00372,03-May-2026,east,Sara Kim,Webcam HD,10,54.50
+ORD-00373,20-Aug-2026,west,alice chen,Mechanical Keyboard,12,89.99
+ORD-00374,2026-08-13,north,tom rivera,Laptop Stand,1,$32.00
+ORD-00375,2026-06-19,East,Alice Chen,wireless mouse,3,$24.99
+ORD-00376,2026-05-08,north,Alice Chen,27in Monitor,8,$229.00
+ORD-00377,2026-03-23,north,priya patel,Laptop Stand,12,32.00
+ORD-00378,08-Jan-2026,North,  MARCUS LEE ,  USB-C HUB ,5,$39.99
+ORD-00379,2026-05-08,East,  ALICE CHEN ,USB-C Hub,8,39.99
+ORD-00380,2026-06-27,North,Priya Patel,27in monitor,12,229.00
+ORD-00381,2026-09-08,East,tom rivera,USB-C Hub,10,39.99
+ORD-00382,05/15/2026,North,Sara Kim,webcam hd,6,54.50
+ORD-00383,14-Jun-2026,west,Tom Rivera,laptop stand,2,$32.00
+ORD-00384,2026-09-25,south,alice chen,Laptop Stand,2,32.00
+ORD-00385,08-Sep-2026,  EAST ,Marcus Lee,  WEBCAM HD ,10,54.50
+ORD-00386,08/28/2026,West,Alice Chen,laptop stand,1,32.00
+ORD-00387,2026-04-21,South,marcus lee,Webcam HD,2,54.50
+ORD-00388,03-Jul-2026,West,Marcus Lee,Laptop Stand,8,$32.00
+ORD-00389,06/30/2026,East,Tom Rivera,Mechanical Keyboard,9,89.99
+ORD-00390,05/11/2026,  WEST ,Alice Chen,Mechanical Keyboard,8,89.99
+ORD-00391,2026-04-24,East,Sara Kim,USB-C Hub,6,39.99
+ORD-00392,2026-05-16,south,  PRIYA PATEL ,Mechanical Keyboard,10,89.99
+ORD-00393,30-Mar-2026,North,  PRIYA PATEL ,27in Monitor,12,$229.00
+ORD-00394,2026-06-28,South,Sara Kim,27in Monitor,7,$229.00
+ORD-00395,18-Mar-2026,south,Tom Rivera,Mechanical Keyboard,9,89.99
+ORD-00396,03/09/2026,North,  PRIYA PATEL ,Mechanical Keyboard,2,89.99
+ORD-00397,2026-07-22,south,Priya Patel,Laptop Stand,10,32.00
+ORD-00398,08-Apr-2026,North,Marcus Lee,Mechanical Keyboard,6,$89.99
+ORD-00399,04/30/2026,South,  ALICE CHEN ,  USB-C HUB ,11,39.99
+ORD-00399,04/30/2026,South,  ALICE CHEN ,  USB-C HUB ,11,39.99
+ORD-00400,02/26/2026,North,sara kim,Mechanical Keyboard,8,$89.99
+ORD-00401,10-Jan-2026,north,alice chen,27in Monitor,10,$229.00
+ORD-00401,10-Jan-2026,north,alice chen,27in Monitor,10,$229.00
+ORD-00402,18-Jul-2026,East,alice chen,Laptop Stand,5,$32.00
+ORD-00403,20-Feb-2026,north,Sara Kim,Mechanical Keyboard,8,89.99
+ORD-00404,2026-09-08,North,Priya Patel,27in Monitor,12,$229.00
+ORD-00405,2026-01-16,South,Tom Rivera,  WEBCAM HD ,5,$54.50
+ORD-00406,27-Apr-2026,South,Priya Patel,27in Monitor,4,229.00
+ORD-00407,14-Apr-2026,South,Marcus Lee,USB-C Hub,5,39.99
+ORD-00408,2026-03-02,North,Tom Rivera,USB-C Hub,6,$39.99
+ORD-00409,01/14/2026,South,Marcus Lee,Webcam HD,10,$54.50
+ORD-00410,07/11/2026,  WEST ,marcus lee,USB-C Hub,7,39.99
+ORD-00411,2026-04-14,West,Tom Rivera,USB-C Hub,2,39.99
+ORD-00412,07/14/2026,North,Tom Rivera,Laptop Stand,6,32.00
+ORD-00413,2026-07-18,south,Tom Rivera,Webcam HD,11,$54.50
+ORD-00414,2026-01-28,West,  TOM RIVERA ,Laptop Stand,9,32.00
+ORD-00415,03/11/2026,  WEST ,Tom Rivera,27in Monitor,7,229.00
+ORD-00416,2026-03-25,  NORTH ,Tom Rivera,  LAPTOP STAND ,12,$32.00
+ORD-00417,03/23/2026,North,Priya Patel,27in Monitor,9,229.00
+ORD-00418,01/27/2026,west,  MARCUS LEE ,  27IN MONITOR ,,229.00
+ORD-00418,01/27/2026,west,  MARCUS LEE ,  27IN MONITOR ,,229.00
+ORD-00419,2026-09-12,west,Sara Kim,27in Monitor,9,$229.00
+ORD-00420,23-May-2026,  SOUTH ,  MARCUS LEE ,Webcam HD,11,54.50
+ORD-00421,2026-06-02,North,marcus lee,mechanical keyboard,2,89.99
+ORD-00422,01/19/2026,East,Alice Chen,Wireless Mouse,5,24.99
+ORD-00423,05/21/2026,South,  SARA KIM ,Mechanical Keyboard,9,89.99
+ORD-00424,05/28/2026,East,Sara Kim,  27IN MONITOR ,10,$229.00
+ORD-00425,03-Apr-2026,East,  ALICE CHEN ,Webcam HD,4,54.50
+ORD-00426,08/01/2026,East,  MARCUS LEE ,27in monitor,1,$229.00
+ORD-00427,15-Jun-2026,East,Sara Kim,  WIRELESS MOUSE ,2,24.99
+ORD-00428,03-Sep-2026,South,Tom Rivera,27in Monitor,1,$229.00
+ORD-00429,29-Jan-2026,East,alice chen,Webcam HD,5,$54.50
+ORD-00430,23-Jun-2026,South,tom rivera,  27IN MONITOR ,11,$229.00
+ORD-00431,2026-07-31,East,priya patel,Wireless Mouse,8,24.99
+ORD-00432,2026-02-17,West,marcus lee,27in Monitor,9,$229.00
+ORD-00433,2026-09-22,North,  SARA KIM ,Laptop Stand,3,32.00
+ORD-00434,28-Aug-2026,  EAST ,Priya Patel,wireless mouse,2,24.99
+ORD-00435,08/14/2026,south,  ALICE CHEN ,Laptop Stand,2,32.00
+ORD-00436,14-Mar-2026,south,Priya Patel,Laptop Stand,5,$32.00
+ORD-00437,2026-01-26,North,Marcus Lee,Wireless Mouse,7,$24.99
+ORD-00438,2026-02-10,North,  TOM RIVERA ,27in Monitor,10,$229.00
+ORD-00439,2026-05-13,East,Priya Patel,  MECHANICAL KEYBOARD ,7,$89.99
+ORD-00440,25-May-2026,South,Tom Rivera,Mechanical Keyboard,10,$89.99
+ORD-00441,08/25/2026,South,sara kim,27in Monitor,10,229.00
+ORD-00442,11-Aug-2026,south,Alice Chen,Webcam HD,6,$54.50
+ORD-00443,02/19/2026,  WEST ,Alice Chen,27in Monitor,3,$229.00
+ORD-00444,22-Apr-2026,North,Marcus Lee,usb-c hub,10,$39.99
+ORD-00445,06/05/2026,North,Sara Kim,27in Monitor,12,229.00
+ORD-00446,28-Jan-2026,  EAST ,Priya Patel,wireless mouse,12,$24.99
+ORD-00447,11-Aug-2026,South,Marcus Lee,Webcam HD,4,$54.50
+ORD-00448,2026-03-06,  NORTH ,Tom Rivera,USB-C Hub,1,39.99
+ORD-00449,08/22/2026,South,Tom Rivera,Laptop Stand,10,$32.00
+ORD-00449,08/22/2026,South,Tom Rivera,Laptop Stand,10,$32.00
+ORD-00450,13-Sep-2026,East,Sara Kim,  LAPTOP STAND ,4,32.00
+ORD-00451,2026-09-04,East,Alice Chen,Laptop Stand,2,32.00
+ORD-00452,09-Feb-2026,East,Priya Patel,  LAPTOP STAND ,11,$32.00
+ORD-00453,08/04/2026,  SOUTH ,Sara Kim,Mechanical Keyboard,5,$89.99
+ORD-00454,27-Jan-2026,north,  ALICE CHEN ,  LAPTOP STAND ,5,$32.00
+ORD-00455,2026-05-12,South,Marcus Lee,Wireless Mouse,12,24.99
+ORD-00456,2026-09-28,South,Marcus Lee,Wireless Mouse,6,$24.99
+ORD-00457,27-Mar-2026,  EAST ,Priya Patel,  USB-C HUB ,10,39.99
+ORD-00458,30-Sep-2026,West,Marcus Lee,USB-C Hub,7,$39.99
+ORD-00459,2026-09-29,East,Tom Rivera,Laptop Stand,1,$32.00
+ORD-00460,20-Jul-2026,South,Sara Kim,27in Monitor,11,N/A
+ORD-00460,20-Jul-2026,South,Sara Kim,27in Monitor,11,N/A
+ORD-00461,2026-02-04,North,priya patel,wireless mouse,7,24.99
+ORD-00462,2026-04-22,  NORTH ,  SARA KIM ,Webcam HD,11,54.50
+ORD-00463,28-Aug-2026,West,Priya Patel,Laptop Stand,2,$32.00
+ORD-00464,02/01/2026,north,priya patel,  27IN MONITOR ,7,229.00
+ORD-00465,2026-03-15,North,  PRIYA PATEL ,  WEBCAM HD ,7,N/A
+ORD-00466,01/01/2026,east,Priya Patel,Wireless Mouse,11,$24.99
+ORD-00467,2026-02-05,West,  TOM RIVERA ,Webcam HD,4,$54.50
+ORD-00468,02/16/2026,North,Priya Patel,mechanical keyboard,9,89.99
+ORD-00469,19-Jul-2026,East,Tom Rivera,  WIRELESS MOUSE ,,24.99
+ORD-00470,19-Jul-2026,East,Tom Rivera,  WIRELESS MOUSE ,9,$24.99
+ORD-00471,02-Mar-2026,West,  SARA KIM ,USB-C Hub,11,39.99
+ORD-00472,2026-08-30,  SOUTH ,Alice Chen,Webcam HD,1,54.50
+ORD-00473,24-Feb-2026,  SOUTH ,Marcus Lee,Wireless Mouse,8,$24.99
+ORD-00474,2026-03-12,South,alice chen,Mechanical Keyboard,4,89.99
+ORD-00475,21-Jan-2026,West,Alice Chen,  USB-C HUB ,2,39.99
+ORD-00476,05/26/2026,south,Priya Patel,27in Monitor,12,229.00
+ORD-00477,13-Sep-2026,East,Alice Chen,webcam hd,2,54.50
+ORD-00478,17-Sep-2026,south,  MARCUS LEE ,  USB-C HUB ,8,$39.99
+ORD-00479,01/28/2026,South,Priya Patel,Laptop Stand,6,$32.00
+ORD-00480,04/01/2026,  NORTH ,Marcus Lee,USB-C Hub,1,$39.99
+ORD-00481,2026-04-28,north,Tom Rivera,Wireless Mouse,6,24.99
+ORD-00482,12-Aug-2026,west,  PRIYA PATEL ,USB-C Hub,4,$39.99
+ORD-00483,2026-01-31,West,Marcus Lee,mechanical keyboard,3,$89.99
+ORD-00484,2026-03-29,North,Sara Kim,Webcam HD,9,$54.50
+ORD-00485,05/07/2026,South,Sara Kim,USB-C Hub,6,39.99
+ORD-00486,16-Sep-2026,West,Alice Chen,wireless mouse,7,24.99
+ORD-00487,03-Jul-2026,  NORTH ,priya patel,Mechanical Keyboard,4,89.99
+ORD-00488,27-Jul-2026,West,Alice Chen,  USB-C HUB ,6,$39.99
+ORD-00489,17-Apr-2026,East,Alice Chen,Laptop Stand,2,$32.00
+ORD-00490,2026-01-21,North,  MARCUS LEE ,Mechanical Keyboard,6,89.99
+ORD-00491,04/18/2026,East,Sara Kim,laptop stand,4,32.00
+ORD-00492,04-Mar-2026,East,Priya Patel,27in Monitor,12,229.00
+ORD-00493,2026-07-20,north,Alice Chen,USB-C Hub,5,39.99
+ORD-00494,03/09/2026,West,alice chen,  27IN MONITOR ,6,229.00
+ORD-00495,06/25/2026,West,Sara Kim,Laptop Stand,11,$32.00
+ORD-00496,05/14/2026,East,  ALICE CHEN ,usb-c hub,8,39.99
+ORD-00497,04-Apr-2026,south,  ALICE CHEN ,USB-C Hub,12,39.99
+ORD-00498,01/18/2026,South,Sara Kim,Laptop Stand,6,32.00
+ORD-00499,2026-03-16,North,Sara Kim,27in Monitor,6,$229.00
+ORD-00500,03/17/2026,East,Tom Rivera,  WEBCAM HD ,12,54.50
